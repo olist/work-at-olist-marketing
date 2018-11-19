@@ -21,7 +21,8 @@ This repository contains instructions to solve problems that are used to evaluat
    * BI tools (Power BI, Tableau, Qlik, etc);
    * Any other tool you like;
 5. Apply for the position at our [career page](https://www.99jobs.com/olist).
-6. You might be asked to explain some steps of your analysis at the interview.
+6. Send your analysis by email (you'll get the address at the selection process).
+7. You might be asked to explain some steps of your analysis at the interview.
 
 # Work at Olist Marketing Analytics - Test
 ## Dataset
