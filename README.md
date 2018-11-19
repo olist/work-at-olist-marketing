@@ -33,7 +33,7 @@ This is real data, it has been anonymized and sampled from the original dataset.
 ## Requirements
 You may want to solve different types of problems with this dataset. Choose one that best suits you and have fun! Bellow are some examples of things you might want to do, but feel free to use your creativity.
 
-> Notice that you **are not required** to do everything listed bellow. They are just starting points. Remember that quality is more important than quantity.
+> Notice that you **are not required to do everything** listed bellow. Those are just starting points, ideas to guide your work. Remember that quality is more important than quantity.
 
 **Language Requirements:** We like to experiment new things! Fell encouraged to solve the test with the tool you like the most. We accept solutions on spreadsheets or presentations in pdf. But you are really going to touch our hearts if choose tools like Python/R to solve this problem. Showing your code is a plus.
 
