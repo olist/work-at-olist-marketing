@@ -35,7 +35,7 @@ You may want to solve different types of problems with this dataset. Choose one 
 
 > Notice that you **are not required to do everything** listed bellow. Those are just starting points, ideas to guide your work. Remember that quality is more important than quantity.
 
-**Language Requirements:** We like to experiment new things! Fell encouraged to solve the test with the tool you like the most. We accept solutions on spreadsheets or presentations in pdf. But you are really going to touch our hearts if choose tools like Python/R to solve this problem. Showing your code is a plus.
+**Language Requirements:** We like to experiment new things! Feel encouraged to solve the test with a tool you like the most. We accept solutions on spreadsheets or presentations in pdf. But you are really going to touch our hearts if choose tools like Python/R to solve this problem. Showing your code/solution is a plus.
 
 ### Aquisition Channels
 * Analyse the performance/results of our aquisition channels through the marketing funnel
