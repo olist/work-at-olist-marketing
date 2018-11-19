@@ -1,5 +1,5 @@
 # Work at Olist - Marketing Analytics
-*Apply for a job at Olist's Marketing Analytics Team: http://bit.ly/olist-jobs*
+*Apply for a job at Olist's Marketing Analytics Team: http://bit.ly/work-at-olist-marketing*
 
 [Olist](https://olist.com/) is the largest department store of Brazilian marketplaces. We connect small businesses to channels without hassle and with a single contract. We have connected more than 4.1 thousand sellers to stores like Americanas.com, Ponto Frio, Walmart, Submarino, Mercado Livre, Amazon, among others.
 
@@ -20,9 +20,11 @@ This repository contains instructions to solve problems that are used to evaluat
    * Microsoft Excel;
    * BI tools (Power BI, Tableau, Qlik, etc);
    * Any other tool you like;
-5. Apply for the position at our [career page](https://www.99jobs.com/olist).
+5. Apply for the position at our [career page](http://bit.ly/work-at-olist-marketing).
 6. Send your analysis by email (you'll get the address at the selection process).
 7. You might be asked to explain some steps of your analysis at the interview.
+
+> Completing the test and applying for the postion does not guarantee that you will be called for interview.
 
 # Work at Olist Marketing Analytics - Test
 ## Dataset
