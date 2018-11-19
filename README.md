@@ -41,8 +41,8 @@ You may want to solve different types of problems with this dataset. Choose one 
 * Analyse the performance/results of our aquisition channels through the marketing funnel
 * Link the data with the orders dataset and estimate the customer value for each channel
 * Create KPIs and a dashboard that shows the current funnel status and provide some insights
-* Find some opportunities to improve the area by using the data. Which channels should we invest more? Wich ones should we stop?
-* Find correlations between the data and try to predict an outcome (closing a sale, for instance)
+* Find some opportunities to improve the area by using data. Which channels should we invest more? Wich ones should we stop?
+* Find correlations between data and try to predict an outcome (closing a sale, for instance)
 
 ### Engineering Marketing
 * Develop a plan to attract and capture more qualified leads (tool based marketing)
