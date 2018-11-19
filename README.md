@@ -30,7 +30,7 @@ Olist has released a [Marketing Funnel Dataset](https://www.kaggle.com/olistbr/m
 This is real data, it has been anonymized and sampled from the original dataset.
 
 ## Requirements
-You may want to solve different types of problems with this dataset. Choose the position that best suits you and have fun with the data. Bellow are some examples of things you might want to do, but feel free to use your creativity.
+You may want to solve different types of problems with this dataset. Choose one that best suits you and have fun! Bellow are some examples of things you might want to do, but feel free to use your creativity.
 
 > Notice that you **are not required** to do everything listed bellow. They are just starting points. Remember that quality is more important than quantity.
 
