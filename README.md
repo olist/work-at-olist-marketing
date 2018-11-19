@@ -16,10 +16,10 @@ This repository contains instructions to solve problems that are used to evaluat
 4. Use the tool you like the most or are more familiar with to analyse the data and solve the problem:
    * [Kaggle Kernels](https://www.kaggle.com/kernels) for Jupyter Notebooks (Python/R);
    * [Colaboratory](https://colab.research.google.com) for Jupyter Notebooks (Python/R);
-   * Google Sheets for spreadsheating;
-   * Microsoft Excel
-   * BI tools (Power BI, Tableau, Qlik, etc)
-   * Any other tool you like
+   * Google Sheets;
+   * Microsoft Excel;
+   * BI tools (Power BI, Tableau, Qlik, etc);
+   * Any other tool you like;
 5. Apply for the position at our [career page](https://www.99jobs.com/olist).
 6. You might be asked to explain some steps of your analysis at the interview.
 
